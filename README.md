@@ -1,6 +1,6 @@
 # Shamir's Secret Sharing - Polynomial Root Finder
 
-> **Archived.** Submitted as a take-home exam for a technical interview at **Catalogue**.
+> **Archived.** Submitted as a take-home exam for a technical interview.
 
 Reconstructs the secret constant `c` of a polynomial using **Lagrange Interpolation** over a set of encoded (x, y) share points - mirroring the core mechanic of [Shamir's Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing).
 
